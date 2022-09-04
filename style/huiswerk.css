@@ -10,7 +10,7 @@ div{
   border-color: #578da1;
   border-radius: 18px;
   background-color: #4881c2;
-  margin: 50px 50px;
+  margin: 10% 10%;
   width: 50%;
   height: 50%;
 }
@@ -47,7 +47,7 @@ button:active{
 table{
   border-collapse: collapse;
   width: 800px;
-  margin: 50px 50px;
+  margin: 10% 10%;
   background-color: #a4bedb;
 }
 th{
